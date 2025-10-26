@@ -1,4 +1,3 @@
-
 # 🧙‍♂️ Pixel IDLE RPG
 
 > *A minimalist idle RPG where your hero fights, explores, and grows — even when you're not watching!*  
@@ -28,6 +27,9 @@ Fight enemies ⚔️, gather materials 🪓, craft new items ⚒️, and become 
 | **Shop & Enchantments** | Buy, sell, and enhance your gear with magical properties. |
 | **Game Log** | Track your progress, achievements, and legendary loot. |
 | **Save/Load** | Game progress is auto-saved in your browser’s `localStorage`. |
+| **Home Screen** | A new starting point with options for New Game, Continue, Options, and Support. |
+| **Interactive Tutorial** | An in-game guide to help new players understand mechanics and UI. |
+| **Enhanced UI** | Improved visual feedback for navigation and progress bars. |
 
 ---
 
@@ -90,6 +92,10 @@ Then open your browser at:
 | ☁️ **Cloud Saves**           | Sync progress across devices                |
 | ⏰ **Offline Progression**    | Earn rewards even while AFK                 |
 | 🎨 **Pixel Art Update**      | Add animated sprites and improved visuals   |
+| 🏆 **Achievements System**   | Track and reward player milestones.         |
+| 🤝 **Multiplayer Features**  | Basic interaction with other players.       |
+| 🌐 **Localization**          | Support for multiple languages.             |
+| 📱 **Mobile Responsiveness** | Optimize for play on mobile devices.        |
 
 ---
 
